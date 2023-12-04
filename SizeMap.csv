@@ -1,0 +1,25 @@
+﻿Body Style,Size
+AmphibiousVehicle,Midsize
+DualPurpose,Midsize
+DuneBuggy,Small SUV
+FourDoorConvertible,Midsize
+FourDoorCoupe,Midsize
+FourDoorFastback,Midsize
+FourDoorHardtop,High midsize
+FourDoorSedan,High midsize
+FourDoorStationwagon,Small SUV
+GolfCart,Compact
+Hatchback,Midsize
+LimousinePassenger,Midsize
+Lowspeed,Pickup
+Snowmobile,Compact
+SportConvertible,Midsize
+ThreeWheeled,Midsize
+TwoDoorConvertible,Compact
+TwoDoorCoupe,Compact
+TwoDoorFastback,Compact
+TwoDoorHardtop,Midsize
+TwoDoorSedan,Midsize
+TwoDoorStationwagon,Midsize
+WheeledATV,Pickup
+WorkUtilityPassengerVehicle,Pickup
