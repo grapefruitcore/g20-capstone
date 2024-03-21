@@ -1,0 +1,9 @@
+ID,PowerMinimum,PowerMaximum,MaxPercent,MaxDollar
+CleanBCPublic,20,49,0.9,50000
+CleanBCPublic,50,99,0.9,100000
+CleanBCPublic,100,1000,0.9,130000
+CleanBCPublic,7,50,0.9,7500
+ICE,3.3,19.2,0.75,7500
+ICE,20,49,0.75,22500
+ICE,50,99,0.75,75000
+ICE,100,1000,0.75,99999

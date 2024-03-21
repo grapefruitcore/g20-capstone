@@ -1,0 +1,16 @@
+﻿Tech progress,Size,Powertrain type,Well to pump emissions (g/mile),Well to pump emissions (g/km),Pump to wheel emissions (g/mile),Pump to wheel emissions (g/km)
+Low,Compact,EV,53,32.93275504,0,0
+Low,Compact,FCV,175,108.7402289,0,0
+Low,Compact,Gasoline,63,39.14648241,263.26,163.5825867
+Low,Midsize,EV,55,34.17550052,0,0
+Low,Midsize,FCV,191,118.6821927,0,0
+Low,Midsize,Gasoline,70,43.49609157,293.87,182.6028061
+Low,High midsize,EV,74,45.98158251,0,0
+Low,High midsize,FCV,249,154.7218114,0,0
+Low,High midsize,Gasoline,79,49.0884462,330.36,205.2766973
+Low,Pickup,EV,90,55.9235463,0,0
+Low,Pickup,FCV,322,200.0820212,0,0
+Low,Pickup,Gasoline,101,62.7586464,422.83,262.7350342
+Low,Small SUV,EV,67,41.63197336,0,0
+Low,Small SUV,FCV,233,144.7798476,0,0
+Low,Small SUV,Gasoline,77,47.84570072,320.8,199.3363739
