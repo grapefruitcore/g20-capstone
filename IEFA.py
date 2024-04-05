@@ -23,7 +23,7 @@ def calculate():
 
         # Run IEFA based on newly set inputs
         subprocess.run(["python", "CapstoneCode.py", str(parkingLotSize), str(rebatePercent), str(markup), str(weeks), str(installCost), str(marketPrice), str(hydroPrice), str(seasonality)], check=False)
-        print("Model has finished running. Go ahead and check the data file.")
+        messagebox.showinfo("IEFA run complete", "Model has finished running. Go ahead and check the data file.")
         return True
     # If there was an error with specifying the inputs, generate a message box to show the error.
     except:
@@ -31,7 +31,7 @@ def calculate():
 
 # Create the main window
 root = tk.Tk()
-root.title("Input Form")
+root.title("IEFA Input Form")
 
 # Create labels and entry widgets for each input
 ttk.Label(root, text="REQUIRED INPUTS:").grid(row=0, column=0, columnspan=2, sticky=tk.W)
